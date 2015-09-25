@@ -1,4 +1,4 @@
-This is an example of using node's `require("child_process").exec` method to run ruby code. Check out `holidays.coffee` for actual example.
+This is an example of using node's `require("child_process").exec` method to execute Ruby code through Node.js. Check out `holidays.coffee` for actual example.
 
 # Testing locally
 
